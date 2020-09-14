@@ -26,29 +26,29 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 ### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Build Page HTML | H | 1hr | .33 hr |
-| Header + Description CSS | M | 1hr | .67hr |
-| Nav Bar CSS | M | 1hr | .33hr |  
-| Nav Bar Functionality | H / M | 2hr|  hr | 
-| About Me Text | M | 1hr | hr|
-| ABout Me CSS | M | 2hrs|  hr | 
-| Prject Grid | H / M | 1hr | hr | hr |
-| Project Linked | H / M | 1hr | 1 hr |
-| Project CSS | H / M | 2hr |  hr |
-| Contact + CSS | M | 1hr |  hr |
+| Build Page HTML | H | 1 hr | .33 hr |
+| Header + Description CSS | M | 1 hr | .67 hr |
+| Nav Bar CSS | M | 1 hr | .33 hr |  
+| Nav Bar Functionality | H / M | 2 hr|  hr | 
+| About Me Text | M | 1 hr | hr|
+| ABout Me CSS | M | 2 hrs|  hr | 
+| Prject Grid | H / M | 1 hr | hr | hr |
+| Project Linked | H / M | 1 hr | 1 hr |
+| Project CSS | H / M | 2 hr |  hr |
+| Contact + CSS | M | 1 hr |  .25 hr |
 | CSS Tablet + Desktop | M | 1hr |  hr |
 | Total | H | 14hrs| hrs |
 
 ### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Project Caracel | M | 3hr | hr |
-| Input E-mail | L | 2hr | hr |
+| Project Caracel | M | 3 hr | hr |
+| Input E-mail | L | 2 hr | hr |
 | Functionality for Input E-mail | L | 2hr | hr |
-| Prof Edit | M | 2hr | hr |
-| Try to Break | L | 1hr | hr |
-| CSS Toach Ups | L | 2hr | hr |
-| Significant CSS changes for Tablet + Desktop | L | 2hr | hr |
-| Additional Work for Project CSS | M | 2hr | hr |
-| Nav Bar sticks to top of Screen | L | 2hr | hr |
+| Prof Edit | M | 2 hr | hr |
+| Try to Break | L | 1 hr | hr |
+| CSS Toach Ups | L | 2 hr | hr |
+| Significant CSS changes for Tablet + Desktop | L | 2 hr | hr |
+| Additional Work for Project CSS | M | 2 hr | hr |
+| Nav Bar sticks to top of Screen | L | 2 hr | hr |
 | Total | H | 18hrs| hrs |
