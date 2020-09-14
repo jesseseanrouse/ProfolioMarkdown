@@ -26,7 +26,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 ### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Build Page HTML | H | 1hr | hr |
+| Build Page HTML | H | 1hr | .33 hr |
 | Header + Description CSS | M | 1hr | hr |
 | Nav Bar CSS | M | 1hr | hr |  
 | Nav Bar Functionality | H / M | 2hr|  hr | 
