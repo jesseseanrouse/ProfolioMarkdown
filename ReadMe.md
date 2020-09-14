@@ -27,8 +27,8 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Build Page HTML | H | 1hr | .33 hr |
-| Header + Description CSS | M | 1hr | hr |
-| Nav Bar CSS | M | 1hr | hr |  
+| Header + Description CSS | M | 1hr | .67hr |
+| Nav Bar CSS | M | 1hr | .33hr |  
 | Nav Bar Functionality | H / M | 2hr|  hr | 
 | About Me Text | M | 1hr | hr|
 | ABout Me CSS | M | 2hrs|  hr | 
