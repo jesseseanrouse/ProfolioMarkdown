@@ -33,7 +33,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | About Me Text | M | 1hr | hr|
 | ABout Me CSS | M | 2hrs|  hr | 
 | Prject Grid | H / M | 1hr | hr | hr |
-| Project Linked | H / M | 1hr |  hr |
+| Project Linked | H / M | 1hr | 1 hr |
 | Project CSS | H / M | 2hr |  hr |
 | Contact + CSS | M | 1hr |  hr |
 | CSS Tablet + Desktop | M | 1hr |  hr |
