@@ -2,8 +2,8 @@
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | *[ ]
-|Day 1| Wireframes / Priority Matrix / Timeline | *[ ]
+|Day 1| Project Description | *[x]
+|Day 1| Wireframes / Priority Matrix / Timeline | *[x]
 |Day 2| Core Application Structure (HTML, CSS, etc.) | *[ ]
 |Day 4| MVP & Bug Fixes | *[ ]
 |Day 5| Final Touches | *[ ]
