@@ -32,7 +32,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | Nav Bar Functionality | H / M | 2 hr|  1 hr | 
 | About Me Text | M | 1 hr | hr|
 | ABout Me CSS | M | 2 hrs|  hr | 
-| Prject Grid | H / M | 1 hr | hr | 1 min |
+| Prject Grid | H / M | 1 hr | 0 hr |
 | Project Linked | H / M | 1 hr | 1 hr |
 | Project CSS | H / M | 2 hr | 4 hr |
 | Contact + CSS | M | 1 hr |  .25 hr |
@@ -47,7 +47,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | Functionality for Input E-mail | L | 2hr | hr |
 | Prof Edit | M | 2 hr | hr |
 | Try to Break | L | 1 hr | hr |
-| CSS Toach Ups | L | 2 hr | hr |
+| CSS Touch Ups | L | 2 hr | hr |
 | Significant CSS changes for Tablet + Desktop | L | 2 hr | hr |
 | Additional Work for Project CSS | M | 2 hr | hr |
 | Nav Bar sticks to top of Screen | L | 2 hr | hr |
