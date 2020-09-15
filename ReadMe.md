@@ -50,5 +50,5 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | CSS Touch Ups | L | 2 hr | hr |
 | Significant CSS changes for Tablet + Desktop | L | 2 hr | hr |
 | Additional Work for Project CSS | M | 2 hr | hr |
-| Nav Bar sticks to top of Screen | L | 2 hr | hr |
+| Nav Bar sticks to top of Screen | L | 2 hr | 2 hr |
 | Total | H | 18hrs| hrs |
