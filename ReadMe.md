@@ -34,7 +34,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | ABout Me CSS | M | 2 hrs|  hr | 
 | Prject Grid | H / M | 1 hr | hr | hr |
 | Project Linked | H / M | 1 hr | 1 hr |
-| Project CSS | H / M | 2 hr |  hr |
+| Project CSS | H / M | 2 hr | 4 hr |
 | Contact + CSS | M | 1 hr |  .25 hr |
 | CSS Tablet + Desktop | M | 1hr |  hr |
 | Total | H | 14hrs| hrs |
