@@ -29,7 +29,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | Build Page HTML | H | 1 hr | .33 hr |
 | Header + Description CSS | M | 1 hr | .67 hr |
 | Nav Bar CSS | M | 1 hr | .33 hr |  
-| Nav Bar Functionality | H / M | 2 hr|  hr | 
+| Nav Bar Functionality | H / M | 2 hr|  1 hr | 
 | About Me Text | M | 1 hr | hr|
 | ABout Me CSS | M | 2 hrs|  hr | 
 | Prject Grid | H / M | 1 hr | hr | hr |
