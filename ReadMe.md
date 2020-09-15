@@ -4,7 +4,7 @@
 |---|---| ---|
 |Day 1| Project Description | *[x]
 |Day 1| Wireframes / Priority Matrix / Timeline | *[x]
-|Day 2| Core Application Structure (HTML, CSS, etc.) | *[ ]
+|Day 2| Core Application Structure (HTML, CSS, etc.) | *[x]
 |Day 4| MVP & Bug Fixes | *[ ]
 |Day 5| Final Touches | *[ ]
 |Day 5| Present | *[ ]
