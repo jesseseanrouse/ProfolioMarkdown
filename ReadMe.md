@@ -44,7 +44,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | --- | :---: |  :---: | :---: | 
 | Project Caracel | M | 3 hr | 2 hr |
 | Input E-mail | L | 2 hr | 1 hr |
-| Functionality for Input E-mail | L | 2hr | hr |
+| Functionality for Input E-mail | L | 2hr | X hr |
 | Prof Edit | M | 2 hr | hr |
 | Try to Break | L | 1 hr | hr |
 | CSS Touch Ups | L | 2 hr | hr |
