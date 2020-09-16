@@ -43,7 +43,7 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Project Caracel | M | 3 hr | 2 hr |
-| Input E-mail | L | 2 hr | hr |
+| Input E-mail | L | 2 hr | 1 hr |
 | Functionality for Input E-mail | L | 2hr | hr |
 | Prof Edit | M | 2 hr | hr |
 | Try to Break | L | 1 hr | hr |
