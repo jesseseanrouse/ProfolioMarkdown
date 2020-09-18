@@ -6,7 +6,7 @@
 |Day 1| Wireframes / Priority Matrix / Timeline | *[x]
 |Day 2| Core Application Structure (HTML, CSS, etc.) | *[x]
 |Day 4| MVP & Bug Fixes | *[x]
-|Day 5| Final Touches | *[ ]
+|Day 5| Final Touches | *[x]
 |Day 5| Present | *[ ]
 
 ### Description
@@ -45,10 +45,11 @@ I'm am going for simple first. Get the information there, get a color scheme goi
 | Project Caracel | M | 3 hr | 2 hr |
 | Input E-mail | L | 2 hr | 1 hr |
 | Functionality for Input E-mail | L | 2hr | X hr |
-| Prof Edit | M | 2 hr | hr |
-| Try to Break | L | 1 hr | hr |
+| Prof Edit | M | 2 hr | 1 hr |
+| Try to Break | L | 1 hr | 1 hr |
 | CSS Touch Ups | L | 2 hr | 4 hr |
 | Significant CSS changes for Tablet + Desktop | L | 2 hr | 2 hr |
 | Additional Work for Project CSS | M | 2 hr | 3 hr |
 | Nav Bar sticks to top of Screen | L | 2 hr | 2 hr |
-| Total | H | 18hrs| hrs |
+| Added Favorite Quotes | L | 2 hr | 2 hr |
+| Total | H | 18hrs| 18 hrs |
